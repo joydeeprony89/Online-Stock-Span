@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Online Stock Span", "Online Stock Span\Online Stock Span.csproj", "{0AD6BC5A-0657-4A93-9A23-B95083F0C9BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AD6BC5A-0657-4A93-9A23-B95083F0C9BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD6BC5A-0657-4A93-9A23-B95083F0C9BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD6BC5A-0657-4A93-9A23-B95083F0C9BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD6BC5A-0657-4A93-9A23-B95083F0C9BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A6C53E8-BD53-4D20-88F2-CDC3D73B9D2B}
+	EndGlobalSection
+EndGlobal
